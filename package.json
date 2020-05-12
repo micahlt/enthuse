@@ -1,6 +1,6 @@
 {
   "name": "enthuse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build your own social network!",
   "main": "index.js",
   "bin": {
