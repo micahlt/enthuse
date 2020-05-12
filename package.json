@@ -1,0 +1,26 @@
+{
+  "name": "enthuse",
+  "version": "1.0.0",
+  "description": "Build your own social network!",
+  "main": "index.js",
+  "bin": {
+    "enthuse": "bin/enthuse"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micahlt/enthuse.git"
+  },
+  "author": "Micah Lindley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micahlt/enthuse/issues"
+  },
+  "homepage": "https://github.com/micahlt/enthuse#readme",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "ora": "^4.0.4"
+  }
+}
