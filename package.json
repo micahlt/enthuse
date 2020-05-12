@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/micahlt/enthuse#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "minimist": "^1.2.5",
-    "ora": "^4.0.4"
+    "ora": "^4.0.4",
+    "z-schema": "^4.2.3"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "platform-name": "Sandbox",
+  "platform-description": "A sandbox for Enthuse",
+  "maintainer": "Micah Lindley",
+  "colors": {
+    "primary": "#FF3A3A",
+    "secondary": "#212121",
+    "tertiary": "#FFFFFF"
+  },
+  "gradient": false,
+  "logo": {
+    "square": "path/to/image",
+    "rectangle": "path/to/image",
+    "favicon": "path/to/image"
+  },
+  "fonts": {
+    "headings": "Manrope",
+    "paragraph": "Manrope",
+    "fallback": "sans-serif"
+  },
+  "firebase": {
+    "token": "abcdefg"
+  }
+}
